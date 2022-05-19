@@ -97,3 +97,6 @@ void loop()
 
 ![output](https://github.com/Praneet002/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%202022-05-19%20184620.png)
 
+### Result:
+ Thus the Simulation output on interfacing digital input sensor 
+ with arduino has been completed in Thinkercard
