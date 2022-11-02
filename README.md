@@ -95,7 +95,12 @@ void loop()
 
 ### Output :
 
+### Output before simulation:
+
 ![output](1.png)
+
+### Output after simulation:
+
 ![output](2.png)
 
 ### Result:
